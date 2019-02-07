@@ -1,0 +1,15 @@
+{
+  "name": "xantesting",
+  "version": "1.0.0",
+  "description": "Xan Varcoe oy18282 Hemant Hari hh15312",
+  "main": "index.js",
+  "dependencies": {
+    "mariadb": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
